@@ -1,0 +1,20 @@
+[general]
+name=SMAnalyst
+about=This is plugin for various analysis: network connections spatial 
+description=
+version=0.1.0
+qgisMinimumVersion=3.26
+qgisMaximumVersion=3.99
+
+homepage=https://github.com/gospodarka-przestrzenna/SMAnalyst
+tracker=https://github.com/gospodarka-przestrzenna/SMAnalyst/issues
+repository=https://github.com/gospodarka-przestrzenna/SMAnalyst
+tags=development
+
+icon=images/icon.png
+
+experimental=true
+deprecated=False
+
+author=Politechnika Wrocławska (WA)
+email=maciej.kaminski@pwr.edu.pl
